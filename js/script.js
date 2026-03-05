@@ -1,5 +1,5 @@
 // 🔥 API PRODUCCIÓN
-const API = "https://ventadegarage.onrender.com/api";
+const API = "https://ventadegarage-backend.onrender.com/api";
 
 // ================= NAVBAR =================
 document.addEventListener("DOMContentLoaded", () => {
